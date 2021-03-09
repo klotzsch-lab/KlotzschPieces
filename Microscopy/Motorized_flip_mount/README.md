@@ -18,7 +18,7 @@
  ![](mfm_slicer.png)
  - Print the parts with suports
  - Mount the "flipper" on the servo shaft
- - Insert the servo in the holder. If is too loosen, add some tapes to the sides to make it thicker so it sits tightly.
+ - Insert the servo in the holder. If is too loosen, add some tape to the sides to make it thicker so it sits tightly.
  - Align the optics carrier of the TFR90/M with the flipper position and slide in the assembly.
  - Tighten the screw on the side of the TFR90/M. (Use the provided allen key)
  - Try it and correct the flipper position if necesary.
